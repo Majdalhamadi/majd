@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>menu</title>
+</head>
+<body>
+<h1>JavaJame Coffee House.</h1>
+<a href="mailto:gmail155.com"><font color="#FF33FF">Home</font></a>
+<a href="mailto:gmail155hg@.com"><font color="#FF33FF">Menu</font></a>
+<a href="http://www.gmailadasd.com">Music</a>
+<a href="http://www.gmailadasd.com">Jobs</a>
+<dl>
+<dt>
+<b>JustJana</b>
+</dt>
+<dd>Regular house blend, decaffeinated coffee, or flavor of the day.<br> Endlesss Cup $2.00</dd>
+</dl>
+<dt><b>Cofe au Lait</b></dt>
+<dd>Hhuse blanded coffee infused into smooth, steamed milk.<br>Single $2.00 Doube $4.00</dd>
+<dt><b>lced cappuccino</b></dt>
+<dd>
+Sweetened espresso blended with icy-cold milk and served in a chiled <br>glass $4.75
+<dd>
+<i>copynight &copy 2011 javaJame Coffee House</i> <br><a href="www.google.com"><font color="#ff33ff">muneer hilal@yahoo.com </a>
+</body>
+</html>

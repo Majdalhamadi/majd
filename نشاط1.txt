@@ -1,0 +1,30 @@
+<html>
+<head>
+<title >JavaJame Coffee House</title>
+<link rel="stylesheet"  type="text/css" href="first1.css"/>
+</head>
+<body class="dd">
+<h1 id="ff">JavaJame Coffee House.</h1>
+<h4 id="rr">
+<a href="mailto:gmail155.com"><font color="#FF33FF">Home</font></a>
+<a href="mailto:gmail155hg@.com"><font color="#FF33FF">Menu</font></a>
+<a href="http://www.gmailadasd.com">Music</a>
+<a href="http://www.gmailadasd.com">Jobs</a>
+</h4>
+<ul>
+<li>Specialty Coffee and Tea</li>
+<li>Bagels, Muffins, and Organic Sancks</li>
+<li>Music and Poetry Reading </li>
+<li>Open Mic Night</li>
+</ul><br>
+<h4 id="rr">
+12312 Main Street<br>
+Mountain Home, CA 93923<br>
+1-888-555-555</h4>
+<h4 id="pp">Copyright &copy2011 JavaJame Coffee House<br>
+<a href="mailto:monjddhhskjg124@.com">muneer hilal@yahoo.com</a>
+</h4>
+
+</body>
+
+</html>
