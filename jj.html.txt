@@ -1,0 +1,32 @@
+<html>
+<head><title>ÕİÍÉ ÇáÚÑæÖ</title>
+<style>
+
+body{background-image:url(j2.gif);
+background-repeat:repeat-x;
+margin:0px}
+
+h1{background-color:#778899;
+padding:20px;
+text-align:center;
+}
+
+footer{
+background-color:#778899;
+padding:20px;
+text-align:center;
+position:relative;top:100%;
+}
+</style>
+</head>
+<body>
+<h1>áÇÊæÌÏ ÚÑæÖ ÍÇáíÇ</h1>
+
+<footer>
+<p>ÔßÑÇ áßã Úáì ÒíÇÑÊäÇ</p>
+<form action="new4.html"><button type="submit">ÑÌæÚ
+</button>
+</form>
+</footer>
+</body>
+</html>

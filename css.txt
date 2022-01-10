@@ -1,0 +1,29 @@
+#ff{
+text-align:center;
+background-color:#CC6633;
+}
+.dd{
+	color:#993333;
+background-color:#FFFF99;
+
+}
+ul{
+
+margin-left:auto;
+width:90%;
+}
+#rr{
+margin-left:auto;
+width:94%;
+}
+#pp{
+	color:black;
+background-color:#CC6633;
+text-align:center;
+margin-left:auto;
+margin-right:auto;
+width:85%;
+}
+#oo{
+text-color:red;
+}

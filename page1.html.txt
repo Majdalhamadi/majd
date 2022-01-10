@@ -1,0 +1,29 @@
+<html>
+<head><title>ÇáÕİÍÉ ÇáÑÆíÓíÉ </title>
+<style>
+body{background-color:green;text-align:center}
+button{position:relative;
+top:50%;}
+</style>
+
+</head>
+
+<body>
+<button onclick="ps()">ÏÎæá
+</button>
+<script>
+function ps()
+{
+var n=prompt
+("íÌÈ ÇÏÎÇá ßáãÉ ÇáãÑæÑ ááÓãÇÍ ÈÇáÏÎæá Çáì ÇáãæŞÚ");
+if(n==null)
+alert("ÇáÑÌÇ ÇÏÎÇá ÇáŞíãÉ") ;
+else if (n=="ÚÈÏÇáÑÍãä")
+window.location.href="new4.html";
+else
+alert("ßáãÉ ÇáãÑæÑ ÎÇØÆÉ");
+}
+
+</script>
+</body>
+</html>
